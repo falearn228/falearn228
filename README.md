@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @falearn228
-- 👀 I’m interested in PROGRAMMING and some Math
-- 🌱 I’m currently learning Rust, Go, TS (JS), Angular, React, Rocket and cryptography
-- 💞️ I’m looking to collaborate on ... хуй знает
+- 👀 I’m interested in golang and react
+- 🌱 I’m currently learning Go, TS (JS), Angular, React
+- 💞️ I’m looking to collaborate on golang projects
 - 📫 How to reach me: restsan2003@gmail.com
 - 😄 Pronouns: mishka_fredde_2002
 - ⚡ Fun fact: i have normal pencil and bronze in LoL
