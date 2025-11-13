@@ -1,4 +1,4 @@
-###Hey there! 👋
+### Hey there! 👋
 
 I'm Eugene, a backend engineer based in Russia.
 
@@ -13,7 +13,7 @@ I've got a bunch of pinned projects, but my favorite is LLM Service (like OpenCo
 ---
 Fun Facts:
 * I have cat - Markiz
-* I like energy drink
+* I like energy drinks
 * Chainsaw man is my favorite anime
 * Hobbies: gym, algorithms, research
 
