@@ -17,7 +17,7 @@ Fun Facts:
 * Invincible and Boys is the best
 * Hobbies: gym, algorithms, sys design, research
 
-![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/restsan2003?theme=dark)
+[![LeetCode user](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/restsan2003/)
 
 ---
 ![NeetCode 150](https://img.shields.io/badge/NeetCode%20150-32%2F150-red)
