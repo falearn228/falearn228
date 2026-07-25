@@ -7,7 +7,7 @@ I design and build whatever I can imagine.
 If an idea pops into my head, chances are I'll build it and ship it.
 
 ---
-My main tech stack is Go and Angular dev. My favorite tools are Codex (Oh-my-codex, Mempalace, Cavemaaaaaan >:), Superpowers ).
+My main tech stack is Go and Angular dev. My favorite tools are Codex (Context7, graphify, Dox framework).
 I've got a bunch of pinned projects, but my favorite is ebpf-service like goodbyedpi/zapret tool.
 
 ---
